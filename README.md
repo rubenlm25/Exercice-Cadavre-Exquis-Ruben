@@ -1,5 +1,6 @@
 # Exercice-Cadavre-Exquis-Ruben
 
+<<<<<<< HEAD
 il était une fois</br>
 un candidat de </br>
 Koh lanta </br>
@@ -26,3 +27,5 @@ while (alive) {
 
 **  j ai deja vu ce post qlq part **
    
+Mais ou est le Text :-) 
+
