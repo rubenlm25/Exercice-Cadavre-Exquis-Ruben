@@ -23,3 +23,5 @@ while (alive) {
 }
 ```
 ![Jim en action !](https://media.giphy.com/media/fQZX2aoRC1Tqw/source.gif)
+
+C'est l'histoire d'un humain qui a faim. **Très faim.** Et qui désire manger, plus que tout au monde. Des sushis, surtout. 
