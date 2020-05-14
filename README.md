@@ -1,5 +1,6 @@
 # Exercice-Cadavre-Exquis-Ruben
 
+<<<<<<< HEAD
 il était une fois</br>
 un candidat de </br>
 Koh lanta </br>
@@ -25,3 +26,9 @@ while (alive) {
 ![Jim en action !](https://media.giphy.com/media/fQZX2aoRC1Tqw/source.gif)
 
 C'est l'histoire d'un humain qui a faim. **Très faim.** Et qui désire manger, plus que tout au monde. Des sushis, surtout. 
+=======
+**  j ai deja vu ce post qlq part **
+   
+Mais ou est le Text :-) 
+
+
