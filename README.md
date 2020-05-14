@@ -23,3 +23,6 @@ while (alive) {
 }
 ```
 ![Jim en action !](https://media.giphy.com/media/fQZX2aoRC1Tqw/source.gif)
+
+###|j'ai deja |ces phrases |qlq part |sur un autre post |?|
+   |----------|---------|-------|-------|--------| 
